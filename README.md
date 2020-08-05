@@ -1,4 +1,7 @@
 # ED-Stargate
+
+**UPDATE: I have officially forked this mod and upgraded it to modern Rimworld! Go to [hopeseekr/Rimworld-Stargate](https://github.com/hopeseekr/Rimworld-Stargate).**
+
 WARNING: This mod uses the Rimworld Base Save Functionality in ways that it was never designed to support, mainly saving specific things into a separate file instead of saving everything on the map to one file at once. Because of this there may be adverse effects. The main one that I have found is that after traveling through the Stargate Social opinions relating to that colonist will be lost, they will effectively be meeting everyone for the first time again. At this time I do not know of a practical way to resolve this issue.
 
 The Stargate system allows you to transport materials over the great distances between colonies.
